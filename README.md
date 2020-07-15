@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/eggheadio/notes">DEPRECATED :warning: This notes repo has been moved to eggheadio/notes!</a></h1>
+<h1 align="center"><a href="https://github.com/eggheadio/notes">:warning: notes have been moved to eggheadio/notes!</a></h1>
 
 <h1 align="center"><a href="https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit?af=6p5abz">Build an App with the AWS Cloud Development Kit</a></h1>
 
